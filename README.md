@@ -1,2 +1,3 @@
 # myRepo
-Created the first repository
+Created the first  as part my git evalution
+
